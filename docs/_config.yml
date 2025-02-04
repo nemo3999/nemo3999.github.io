@@ -22,15 +22,7 @@ title: Nemo Lab
 email: your-email@example.com
 # Write description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-A webpage dedicated for journaling of knowledge, especially in RTL design.\
-山川大河，日升月落，光荣和梦想，挫折与悲伤
-
-燃料是点燃自己照亮别人的东西，
-火箭是为了梦想抛弃自己的东西，
-生命是用来燃烧的东西，
-死亡是验证生命的东西，
-宇宙是让生命渺小的东西，
-渺小的尘埃是宇宙的开始，
+  A webpage dedicated for journaling of knowledge, especially in RTL design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

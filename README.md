@@ -1,6 +1,6 @@
 # Nemo Lab
 A webpage dedicated for journaling of knowledge, especially in RTL design.\
-
+life is a mystery
 山川大河，日升月落，光荣和梦想，挫折与悲伤
 
 燃料是点燃自己照亮别人的东西，
